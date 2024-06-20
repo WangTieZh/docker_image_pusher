@@ -1,1 +1,1 @@
-openio/openstack-keystone:latest
+eclipse-temurin:8-jre
