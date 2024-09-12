@@ -1,1 +1,7 @@
-weejewel/wg-easy
+sonatype/nexus3
+chainguard/kafka
+chainguard/rabbitmq
+nginx
+redis
+mysql
+postgres
