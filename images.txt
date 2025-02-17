@@ -1,1 +1,1 @@
-bitnamicharts/harbor:latest
+bitnamicharts/harbor:sha256-6c135d56191e9092fdf2eacee0554e46f8accf8d9be0bbb8fc6bdccb52ffad8d
