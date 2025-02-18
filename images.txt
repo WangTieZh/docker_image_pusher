@@ -1,1 +1,1 @@
-rabbitmq
+ollama/ollama:latest
